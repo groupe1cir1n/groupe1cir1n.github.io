@@ -32,7 +32,6 @@ img{
     display: flex;
     flex-direction: column;
     width: 20em;
-    margin-left: 50em;
 }
 
 .line{
@@ -102,6 +101,14 @@ img{
 }
 
 .BigCardFlex{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 5em;
+}
+
+.SmallCardFlex{
     display: flex;
     flex-direction: row;
     align-items: center;

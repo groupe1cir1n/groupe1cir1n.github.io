@@ -29,3 +29,10 @@ img{
     width: 250px;
     height: 100px;
 }
+
+@media (max-width: 1200px) {
+    #main{
+        flex-direction: column;
+        flex-wrap: wrap;
+    }    
+}
