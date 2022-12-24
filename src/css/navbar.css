@@ -65,7 +65,7 @@
     margin: 0;
   }
   
-  .navbar a:hover, .dropdown:hover .dropbtn {
+  .navbar a:hover, .dropdown:hover .dropbtn, .navbar a:active, .dropdown:active .dropbtn {
     background-color: #3E485C;
   }
   
@@ -91,12 +91,13 @@
     
   }
   
-  .dropdown-content a:hover {
+  .dropdown-content a:hover, .dropdown-content a:active {
     background-color: #3E485C;
     width: 85%;
     border-radius: 10px;
   }
   
-  .dropdown:hover .dropdown-content {
+  .dropdown:hover .dropdown-content, .dropdown:active .dropdown-content {
     display: block;
   }
+  
