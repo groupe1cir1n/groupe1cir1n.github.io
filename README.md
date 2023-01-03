@@ -7,4 +7,5 @@ Les compétences travaillées sont:
   - CSS
   - Le déploiement d’un site web via Github pages
   - Présentation/valorisation d’un projet technique
+  
 (Ancien repo github: https://github.com/BreizhHardware/groupe1CIR1N)
