@@ -100,4 +100,8 @@
   .dropdown:hover .dropdown-content, .dropdown:active .dropdown-content {
     display: block;
   }
-  
+
+  .icons_nav{
+    fill: white;
+    width: 24px;
+  }
