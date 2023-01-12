@@ -10,6 +10,7 @@ img{
 .main_recherche{
     display: flex;
     flex-direction: column;
+    justify-content: center;
     margin-top: 20px;
     margin-left: 75px;
     margin-right: 75px;
