@@ -18,6 +18,7 @@ img{
 .CardDesc{
     color: #898989;
     text-align: center;
+    text-decoration: none;
 }
 
 .BigCard{
