@@ -10,7 +10,6 @@ img{
 .main_techno{
     display: flex;
     padding-left: 10px;
-    flex-wrap: wrap;
     align-content: center;
     justify-content: center;
     flex-direction: row;
@@ -42,4 +41,11 @@ img{
 #img_techno_item2{
     width: 225px;
     height: 150px;
+}
+
+@media (max-width: 1200px) {
+    .main_techno{
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
 }
